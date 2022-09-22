@@ -5,10 +5,10 @@ import java.util.List;
 
 public class Transaction {
 
-    private int sellerAccountNumber;
-    private int buyerAccountNumber;
-    private int amount;
-    private String date;
+    private int sellerAccountNumber; //El ejercicio me pide estos parametros
+    private int buyerAccountNumber; //El ejercicio me pide estos parametros
+    private int amount; //El ejercicio me pide estos parametros
+    private String date; //El ejercicio me pide estos parametros
 
 
 

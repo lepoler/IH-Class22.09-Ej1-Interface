@@ -2,10 +2,10 @@ package classes;
 
 public class Account {
 
-    String name;
-    String adress;
-    String accountName;
-    int balance;
+    String name; //El ejercicio me pide estos parametros
+    String adress; //El ejercicio me pide estos parametros
+    String accountName; //El ejercicio me pide estos parametros
+    int balance; //El ejercicio me pide estos parametros
 
     public Account(String name, String adress, String accountName, int balance) {
         this.name = name;
